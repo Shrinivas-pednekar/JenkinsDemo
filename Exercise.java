@@ -13,6 +13,7 @@ public class Exercise {
    a.add("mango");
    a.add("apple");
    a.add("mango");
+a.add("mango");
    System.out.println(a);
    
 }
