@@ -12,6 +12,7 @@ public class Exercise {
    a.add("cherry");
    a.add("mango");
    a.add("apple");
+   a.add("mango");
    System.out.println(a);
    
 }
